@@ -2,11 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { YourComponent } from './stories/YourComponent';
 import './stories/YourComponent.css';
-import styles from "./styles/App.css";
+import './styles/App.css';
 
-
-// export const Primary = () => 
-//   <YourComponent>adsadasda</YourComponent>;
 
 function Square(props) {
   return (
